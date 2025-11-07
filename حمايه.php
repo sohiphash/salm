@@ -4,7 +4,7 @@
 */
 
 ob_start();
-$API_KEY = '7976309319:AAG-m0kUDmKiamy5-amreysYrDMXwpde3oM '; //add your bot token
+$API_KEY = '8473249692:AAFZYuEV_Jj3Ft-n5JhVPq4ZX29xTZw0tLQ'; //add your bot token
 $sudo = 6755654253; // add your id
 $bot_id = 911271050; 
 $e = "@XT1TBOT";
@@ -121,7 +121,7 @@ bot('sendMessage',[
 👷🏽¦ فقط اضف البوت لمجموعتك وارفعه مشرف  
   ثم ارسل تفعيل
 
-⚖️¦ مـعرف آلمـطـور  : @XTLXTL 👨🏽‍🔧",
+⚖️¦ مـعرف آلمـطـور  : @D_e_z1 👨🏽‍🔧",
     'reply_markup'=>json_encode([
       'inline_keyboard'=>[
         [['text'=>"آلمـطـور ™",'url'=>"https://t.me/S3D3D"]]
